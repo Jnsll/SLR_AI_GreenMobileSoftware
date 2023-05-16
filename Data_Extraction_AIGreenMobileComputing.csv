@@ -1,0 +1,35 @@
+ID;Initial Set;Title;Authors;Year of publication;Study Type;Category;Topic;Level of Focus;Industry involvement;Providing Tool
+1;;Performance optimization in mobile-edge computing via deep reinforcement learning;X Chen, H Zhang, C Wu, S Mao, Y Ji…;2018;Solution;AI4E;Offloading;System;Academic;No
+2;;Reliable federated learning for mobile networks;J Kang, Z Xiong, D Niyato, Y Zou…;2020;Solution;EofAI;Federated Learning;System;Academic;No
+3;;Deep Reinforcement Learning for Resource Management in Blockchain-Enabled Federated Learning Network;NQ Hieu, TA Tran, CL Nguyen, D Niyato…;2022;Solution;EofAI;Federated Learning;System;Academic;No
+4;;Federated learning over wireless channels: Dynamic resource allocation and task scheduling;S Chu, J Li, J Wang, Z Wang, M Ding…;2022;Solution;EofAI;Federated Learning;System;Academic;No
+5;;Making resource adaptive to federated learning with COTS mobile devices;Y Deng, S Gu, C Jiao, X Bao, F Lyu;2022;Solution;EofAI;Federated Learning;System;Academic;No
+6;;Exploring Deep Reinforcement Learning-Assisted Federated Learning for Online Resource Allocation in Privacy-Preserving Edge IoT;J Zheng, K Li, N Mhaisen, W Ni…;2022;Solution;EofAI;Federated Learning, Accuracy-Energy Trade-off;System;Academic;No
+7;;Worker-Centric Model Allocation for Federated Learning in Mobile Edge Computing;H Huang, Y Yang, Z Jiang…;2022;Solution;EofAI;Federated Learning;System;Academic;No
+8;;Energy drain of the object detection processing pipeline for mobile devices: Analysis and implications;H Wang, BG Kim, J Xie, Z Han;2020;Solution;EofAI;Monitoring;Device;Mix;No
+9;;Machine Learning on Android with Oracle Tribuo, SMILE and Weka;M Szabó;2021;Observational ;EofAI;Benchmark;Device;Academic;No
+10;;Context-aware adaptation of mobile video decoding resolution;O Machidon, J Asprov, T Fajfar, V Pejović;2022;Solution;AI4E;Context Adaptation, Approximate Computing;Device;Academic;No
+11;;Sparsification and separation of deep learning layers for constrained resource inference on wearables;S Bhattacharya, ND Lane;2016;Solution;EofAI;Model Design;Device;Mix;No
+12;;Greenadvisor: A tool for analyzing the impact of software evolution on energy consumption;K Aggarwal, A Hindle, E Stroulia;2015;Solution;AI4E;Monitoring;Device;Academic;Yes
+13;;Offloading in mobile cloudlet systems with intermittent connectivity;Y Zhang, D Niyato, P Wang;2015;Solution;AI4E;Offloading;System;Academic;No
+14;x;Adaptable mobile cloud computing environment with code transfer based on machine learning;P Nawrocki, B Sniezynski, H Slojewski;2019;Solution;AI4E;Offloading;System;Academic;Yes
+15;;Energy efficient resource scheduling using optimization based neural network in mobile cloud computing;P Akki, V Vijayarajan;2020;Solution;AI4E;Offloading;System;Academic;No
+16;;Context-aware multi-user offloading in mobile edge computing: a federated learning-based approach;A Shahidinejad, F Farahbakhsh, ...;2021;Solution;AI4E;Offloading, Federated Learning;System;Academic;No
+17;;Here, There, Anywhere: Profiling-Driven Services to Tame the Heterogeneity of Edge Applications;M Pandey, BD Cruz, M Le, YW Kwon, ...;2021;Solution;AI4E;Monitoring;System;Mix;No
+18;;Context-aware energy enhancements for smart mobile devices;BK Donohoo, C Ohlsen, S Pasricha…;2013;Solution;AI4E;Context Adaptation;System;Academic;No
+19;;Learning agent for a service-oriented context-aware recommender system in heterogeneous environment;P Nawrocki;2016;Solution;AI4E;Context Adaptation, Recommenders;System;Academic;Yes
+20;;Malmos: Machine learning-based mobile offloading scheduler with online training;H Eom, R Figueiredo, H Cai, Y Zhang…;2015;Solution;AI4E;Offloading;System;Academic;No
+21;;Artificial intelligence-based discontinuous reception for energy saving in 5G networks;ML Memon, MK Maheshwari, N Saxena, A Roy…;2019;Solution;AI4E;Offloading, Scheduling;System;Mix;No
+22;;Online learning-based discontinuous reception (DRX) for machine-type communications;J Zhou, G Feng, TSP Yum, M Yan…;2019;Solution;AI4E;Accuracy-Energy Trade-off;Device;Academic;No
+23;;Energy and Resource Efficiency by User Traffic Prediction and Classification in Cellular Networks;A Azari, F Salehi, P Papapetrou…;2021;Solution;AI4E;Accuracy-Energy Trade-off;Device;Academic;No
+24;;Grant Prediction-based Dynamic Power Management for 5G to Reduce Mobile Device Energy Consumption;P Brand, B Hackenberg, J Falk…;2022;Solution;AI4E;Accuracy-Energy Trade-off, Scheduling;Device;Academic;No
+25;;Optimise web browsing on heterogeneous mobile platforms: a machine learning based approach;J Ren, L Gao, H Wang, Z Wang;2017;Solution;AI4E;Context Adaptation;Device;Academic;No
+26;x;Efficient training management for mobile crowd-machine learning: A deep reinforcement learning approach;TT Anh, NC Luong, D Niyato, DI Kim…;2019;Solution;EofAI;Context Adaptation;System;Academic;No
+27;x;What can android mobile app developers do about the energy consumption of machine learning?;A McIntosh, S Hassan, A Hindle;2019;Observational ;EofAI;Energy Measurement;Device;Academic;No
+28;x;DRX‐based energy‐efficient supervised machine learning algorithm for mobile communication networks;DE Ruíz‐Guirola, CA Rodríguez‐López…;2021;Solution;AI4E;Accuracy-Energy Trade-off;Device;Academic;No
+29;x;Adaptive context-aware energy optimization for services on mobile devices with use of machine learning;P Nawrocki, B Sniezynski;2020;Solution;AI4E;Offloading, Context Adaptation, Scheduling;System;Academic;No
+30;x;Energy-efficient transmission scheduling in mobile phones using machine learning and participatory sensing;Z Tang, S Guo, P Li, T Miyazaki, H Jin…;2014;Solution;AI4E;Deployment, Scheduling;System;Academic;No
+31;x;Efficient virtual resource allocation in mobile edge networks based on machine learning;L Li, Y Wei, L Zhang, X Wang;2020;Solution;AI4E;Deployment, Offloading, Resource Management;System;Mix;No
+32;;The power of system call traces: predicting the software energy consumption impact of changes.;K Aggarwal, C Zhang, JC Campbell, A Hindle…;2014;Solution;AI4E;Monitoring;Device;Academic;No
+33;;Deep‐DRX: A framework for deep learning–based discontinuous reception in 5G wireless networks;MK Maheshwari, DR Shin, A Roy…;2019;Solution;AI4E;Context Adaptation;System;Mix;No
+34;;Adaptive context-aware energy optimization for services on mobile devices with use of machine learning considering security aspects;P Nawrocki, B Sniezynski, J Kolodziej…;2020;Solution;AI4E;Context Adaptation, Scheduling;System;Academic;No
